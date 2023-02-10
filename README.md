@@ -25,18 +25,7 @@ I'm a frontend developer who like to study React!
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
-### Socials
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24"  src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-
-<br />
-
-
-[instagram]: https://www.instagram.com/codeinll?r=nametag
-[linkedin]:  https://www.linkedin.com/in/emine-inal-99aa56257
-[gmail]: mailto:emineinal1819@gmail.com
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=em1ne&show_icons=true&theme=radical)
 
