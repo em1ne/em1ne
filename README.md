@@ -1,4 +1,4 @@
-@@ -1,14 +1,14 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emine inal
 ====================================================================================================================================
 Frontend Developer
@@ -11,7 +11,8 @@ I'm a frontend developer who like to study React!
 * ​👩🏻‍💻​  I'm learning React.js in depth
 * 🤝  I'm open to collaborating on Projects
 * 🧚‍♀️​  I'm fairy, tell everyone you see.
-### Skills
+<hr>
+<h1> Skills </h1>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
