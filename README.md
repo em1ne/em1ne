@@ -27,8 +27,7 @@ I'm a frontend developer who like to study React!
 </p>
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=em1ne&show_icons=true&theme=radical)
-</div>
+
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
   <h2 align="center">My Projects</h2>
